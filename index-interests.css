@@ -1,0 +1,108 @@
+#title {
+  background-color: #ff4c68;
+  color: white;
+}
+
+#bullshit {
+  width: 100%;
+}
+
+#brand {
+  font-size: 1.5rem;
+  color: white;
+  font-weight: bold;
+  font-family: "Ubuntu";
+}
+
+.container-fluid {
+  padding: 3% 7%;
+}
+
+#main {
+  height: 60px;
+  font-size: 3rem;
+  font-family: "ubuntu";
+  font-weight: bold;
+}
+
+#navbar {
+  padding: 0 0 4rem 0;
+  font-weight: lighter;
+  font-family: "Ubuntu";
+  font-size: 1rem;
+}
+
+h1 {
+  font-family: "Montserrat";
+  font-size: 3.2rem;
+  line-height: 2;
+}
+
+h3 {
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+img {
+  transform: scale(1.3,1.3);
+  transform: rotate(-10deg);
+}
+
+p {
+  /*text-align: justify;*/
+  color: #8f8f8f;
+}
+
+#background {
+  font-family: "Ubuntu";
+  background-image: url("https://timelinecovers.pro/facebook-cover/download/anime-erased-boku-dake-ga-inai-machi-kayo-hinazuki-satoru-fujinuma-facebook-cover.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-color: #cccccc;
+  height: 400px;
+}
+
+.textfor {
+  font-size: 2rem;
+}
+
+.container {
+  margin-left: 0;
+}
+#rights {
+  text-align: right;
+  margin-right: 20px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+#genere {
+  padding: 7% 15%;
+}
+.genere-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+.color {
+  background-color: pink;
+}
+#img {
+  width: 100%;
+  height: 300px;
+}
+.cont {
+  padding: 3% 5%;
+}
+#contact {
+  padding:0 10% 3% 10%;
+}
